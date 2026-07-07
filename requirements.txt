@@ -1,0 +1,10 @@
+# --- core (pinned, required to run) ---
+numpy>=1.26
+pandas>=2.0
+streamlit>=1.30
+matplotlib>=3.7
+
+# --- optional: production-grade upgrades (uncomment to enable) ---
+# yfinance>=0.2
+# scipy>=1.11
+# cvxpy>=1.4
